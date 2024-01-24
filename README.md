@@ -1,6 +1,6 @@
 # HuntTheGeese_Party_Pack
 
-Welcome to the [Your Modpack Name], a carefully curated collection of mods as of January 23, 2024.
+Welcome to the PartyPazk by HuntTheGeese, a carefully curated collection of mods as of January 23, 2024.
 
 ## Purpose
 The primary goal of this modpack is to ensure a consistent and optimal gaming experience for myself and my friends. By including a majority of the latest mods and their corresponding versions, we can all enjoy the game together with the same set of modifications.
